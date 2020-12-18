@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: can_socket
+Description: Description of can_socket
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lcan_socket
+Requires: 

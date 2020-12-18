@@ -1,0 +1,13 @@
+uint16 ID_PUBLISHER=0
+uint16 ID_SUBSCRIBER=1
+uint16 ID_SERVICE_SERVER=2
+uint16 ID_SERVICE_CLIENT=4
+uint16 ID_PARAMETER_REQUEST=6
+uint16 ID_LOG=7
+uint16 ID_TIME=10
+uint16 ID_TX_STOP=11
+uint16 topic_id
+string topic_name
+string message_type
+string md5sum
+int32 buffer_size
